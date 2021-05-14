@@ -1,7 +1,7 @@
 # Navdeep Singh
 [![Linkedin Badge](https://img.shields.io/badge/-Navdeep%20Singh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navdeep-singh-dev/)](https://www.linkedin.com/in/navdeep-singh-dev/) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-@navdeepsingh-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/navdeepsingh/)](https://www.twitter.com/navdeepsingh/) 
+[![Linkedin Badge](https://img.shields.io/badge/-@nswebstudio-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/nswebstudio/)](https://www.twitter.com/nswebstudio/) 
 
 ## What's up my friends 👋
 I'm Navdeep Singh.
