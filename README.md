@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@nswebstudio-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/nswebstudio/)](https://www.twitter.com/nswebstudio/) 
 
 ## What's up my friends 👋
-I'm Navdeep Singh.
-I'm a tech enthusiast and Software Engineer
+I'm Navdeep Singh. 
+I'm a tech enthusiast and a passionate about Javascript, CSS & Reactjs.
 
 ![Navdeep's github stats](https://github-readme-stats.vercel.app/api?username=navdeepsingh&hide_title=true&theme=dark)
 
