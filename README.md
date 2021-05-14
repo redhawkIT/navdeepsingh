@@ -1,11 +1,16 @@
-### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=navdeepsingh&show_icons=true&hide_border=true&theme=dark">
+# Navdeep Singh
+[![Linkedin Badge](https://img.shields.io/badge/-Navdeep%20Singh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navdeep-singh-dev/)](https://www.linkedin.com/in/navdeep-singh-dev/) 
 
+[![Linkedin Badge](https://img.shields.io/badge/-@navdeepsingh-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/navdeepsingh/)](https://www.twitter.com/navdeepsingh/) 
+
+## What's up my friends 👋
+I'm Navdeep Singh.
+I'm a tech enthusiast and Software Engineer
+
+![Navdeep's github stats](https://github-readme-stats.vercel.app/api?username=navdeepsingh&hide_title=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepsingh&layout=compact&hide_title=true&theme=dark)
 <!--
-**navdeepsingh/navdeepsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
